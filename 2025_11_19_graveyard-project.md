@@ -5,7 +5,7 @@ Category: My First Website
 # Graveyard Work
 
 Here is the graveyard map that I made at
-[Kemptville Public Cemetary](week-10/content/my-map.geojson)
+[Kemptville Public Cemetary](my-map.geojson)
 
 
 + While in the field I learned that not all grave stones are remotely simple at fiting into a category using [this websites](http://debs.ac.uk/files/CodeSheets.pdf) guidelines, there are many limitations to putting data into a box.
