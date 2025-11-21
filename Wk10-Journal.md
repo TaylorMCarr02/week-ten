@@ -27,7 +27,7 @@ important and taking time to understand their importance in the story and why yo
 will be visualizing the 3D images what ideas they may take away from them and aid in their understanding of the past.
 
 - One thing I was really proud of this week was I was finally able to try and accomplish an activity without instructions, I used the templated code and got my own images to
-make a (poorly looking) [3D image]() but nevertheless I got it to work! I feel this shows I am starting to understand the code a bit more and how it works and have pushed myself to
+make a (poorly looking) 3D model [here is an image](3D-image.png) since downloading it was not working but nevertheless I got it to work! I feel this shows I am starting to understand the code a bit more and how it works and have pushed myself to
 try different approcahes to make it work. I got stuck and had to walk away many times but in the end with help on discord, google and just really going through the original code
 and learning what parts to change to make it work I got there in the end! 
 
