@@ -31,5 +31,5 @@ make a (poorly looking) 3D model [here is an image](3D-image.png) since download
 try different approcahes to make it work. I got stuck and had to walk away many times but in the end with help on discord, google and just really going through the original code
 and learning what parts to change to make it work I got there in the end! 
 
-- Not only that but I felt super proud of myself to play around with the website making activity and make a decent looking website about my [graveyard experience](Graveyard-Website.png)
+- Not only that but I felt super proud of myself to play around with the website making activity and make a decent looking website about my [graveyard experience](Graveyard-Website.png). The original code can be found [here](graveyard-project.html)
 
