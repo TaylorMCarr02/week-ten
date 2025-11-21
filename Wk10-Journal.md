@@ -31,4 +31,5 @@ make a (poorly looking) [3D image]() but nevertheless I got it to work! I feel t
 try different approcahes to make it work. I got stuck and had to walk away many times but in the end with help on discord, google and just really going through the original code
 and learning what parts to change to make it work I got there in the end! 
 
+- Not only that but I felt super proud of myself to play around with the website making activity and make a decent looking website about my [graveyard experience](Graveyard-Website.png)
 
