@@ -16,4 +16,4 @@ definetly got a lot of errors trying to load the images errors saying it could n
 The [video](https://kommodo.ai/recordings/naW8jp6RXSlRVrWheVvm) given explaining how to download our images was very helpful. Also I used the website called [sketchfab.com](https://sketchfab.com/feed) that helped me obtain a 3D image of the castle and my gravestone thought they look very very strange it was fun going thorugh the process to try and create the 3D image. 
 
 ## Wikilinks 
-[[3D-images]]
+[3D-images](3D-images.md)
